@@ -1,0 +1,20 @@
+{
+  "name": "Head_First_ObjectOriented_Analysis_and_Design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register tests/*.ts"
+  },
+  "keywords": [],
+  "author": "Felix Saw",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.0.4",
+    "@types/node": "^14.14.8",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "ts-node": "^9.0.0"
+  }
+}
